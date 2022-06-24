@@ -1,0 +1,10 @@
+{
+    "lr_start": 1e-4,
+    "lr_end": 1e-7,
+    "batch_size": 32,
+    "model_name": "roberta-base",
+    "GAS": 1,
+    "epochs": 2,
+    "scheduler_type": "cosine",
+    "downsample": true
+}

@@ -1,0 +1,8 @@
+.row_ {
+  display: flex;
+}
+
+.column_ {
+  flex: 33.33%;
+  padding: 5px;
+}

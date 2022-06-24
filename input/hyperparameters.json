@@ -1,0 +1,11 @@
+{
+  "initial_lrs": [1e-2, 1e-4, 1e-6, 1e-8],
+  "final_lrs": [1e-5, 1e-6, 1e-7, 1e-8],
+  "batch_sizes": [2, 4, 8, 16, 32],
+  "model_types": ["bert-base-cased", "distilbert-base-cased", "roberta-base",
+                   "roberta-large", "microsoft/deberta-base"],
+  "epochs": [1, 2, 4, 8],
+  "scheduler_types": ["linear", "polynomial", "cosine", "constant"],
+  "downsampling": [false, true],
+  "augmentation": [0, 1, 2, 3, 4]
+}

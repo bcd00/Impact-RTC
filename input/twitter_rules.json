@@ -1,0 +1,336 @@
+{
+    "rules": [
+        {
+            "value": "((crash -bandicoot -\"playing crash\" -@CrashBandicoot -@CrashOnTheRun -@bandicootpage -from:CrashBandicoot -from:CrashOnTheRun -from:bandicootpage -financial -economic -2008 -\"crash course\" -\"market crash\" -\"stock market\" -plane -airplane -aeroplane -\"helicopter crash\") OR (crash \"peugeot 2008\") OR (collision -particles -particle) OR (accident -\"by accident\")) lang:en -is:retweet -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_1"
+        },
+        {
+            "value": "((vehicle incident) OR (vehicle collided) OR (vehicle \"pile up\") OR (vehicle \"pile-up\") OR (vehicle smashed) OR (vehicle knocked) OR (vehicle struck) OR (vehicle hit) OR (vehicle \"ran over\")) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_2"
+        },
+        {
+            "value": "((vehicle crashed) OR (vehicle rolled) OR (vehicles incident) OR (vehicles collided) OR (vehicles \"pile up\") OR (vehicles \"pile-up\") OR (vehicles smashed) OR (vehicles knocked) OR (vehicles struck) OR (vehicles hit) OR (vehicles \"ran over\") OR (vehicles crashed) OR (vehicles rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_3"
+        },
+        {
+            "value": "((car incident) OR (car collided) OR (car \"pile up\") OR (car \"pile-up\") OR (car smashed) OR (car knocked) OR (car struck) OR (car hit) OR (car \"ran over\") OR (car crashed)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_4"
+        },
+        {
+            "value": "((car rolled) OR (cars incident) OR (cars collided) OR (cars \"pile up\") OR (cars \"pile-up\") OR (cars smashed) OR (cars knocked) OR (cars struck) OR (cars hit) OR (cars \"ran over\") OR (cars crashed) OR (cars rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_5"
+        },
+        {
+            "value": "((bicycle incident) OR (bicycle collided) OR (bicycle \"pile up\") OR (bicycle \"pile-up\") OR (bicycle smashed) OR (bicycle knocked) OR (bicycle struck) OR (bicycle hit) OR (bicycle \"ran over\") OR (bicycle crashed) OR (bicycle rolled) OR (bicycles incident)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_6"
+        },
+        {
+            "value": "((bicycles \"pile up\") OR (bicycles \"pile-up\") OR (bicycles smashed) OR (bicycles knocked) OR (bicycles struck) OR (bicycles hit) OR (bicycles \"ran over\") OR (bicycles crashed) OR (bicycles rolled) OR (bicycles collided)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_7"
+        },
+        {
+            "value": "((cycle incident) OR (cycle collided) OR (cycle \"pile up\") OR (cycle \"pile-up\") OR (cycle smashed) OR (cycle knocked) OR (cycle struck) OR (cycle hit) OR (cycle \"ran over\") OR (cycle crashed)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_8"
+        },
+        {
+            "value": "((cycle rolled) OR (cycles incident) OR (cycles collided) OR (cycles \"pile up\") OR (cycles \"pile-up\") OR (cycles smashed) OR (cycles knocked) OR (cycles struck) OR (cycles hit) OR (cycles \"ran over\") OR (cycles crashed) OR (cycles rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_9"
+        },
+        {
+            "value": "((bike incident) OR (bike collided) OR (bike \"pile up\") OR (bike \"pile-up\") OR (bike smashed) OR (bike knocked) OR (bike struck) OR (bike hit) OR (bike \"ran over\") OR (bike crashed) OR (bike rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_10"
+        },
+        {
+            "value": "((bikes incident) OR (bikes collided) OR (bikes \"pile up\") OR (bikes \"pile-up\") OR (bikes smashed) OR (bikes knocked) OR (bikes struck) OR (bikes hit) OR (bikes \"ran over\") OR (bikes crashed) OR (bikes rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_11"
+        },
+        {
+            "value": "((motorcycle incident) OR (motorcycle collided) OR (motorcycle \"pile up\") OR (motorcycle \"pile-up\") OR (motorcycle smashed) OR (motorcycle knocked) OR (motorcycle struck) OR (motorcycle hit) OR (motorcycle \"ran over\") OR (motorcycle crashed) OR (motorcycle rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_12"
+        },
+        {
+            "value": "((motorcycles incident) OR (motorcycles collided) OR (motorcycles \"pile up\") OR (motorcycles \"pile-up\") OR (motorcycles smashed) OR (motorcycles knocked) OR (motorcycles struck) OR (motorcycles hit) OR (motorcycles \"ran over\") OR (motorcycles crashed) OR (motorcycles rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_13"
+        },
+        {
+            "value": "((motorbike incident) OR (motorbike collided) OR (motorbike \"pile up\") OR (motorbike \"pile-up\") OR (motorbike smashed) OR (motorbike knocked) OR (motorbike struck) OR (motorbike hit) OR (motorbike \"ran over\") OR (motorbike crashed) OR (motorbike rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_14"
+        },
+        {
+            "value": "((motorbikes incident) OR (motorbikes collided) OR (motorbikes \"pile up\") OR (motorbikes \"pile-up\") OR (motorbikes smashed) OR (motorbikes knocked) OR (motorbikes struck) OR (motorbikes hit) OR (motorbikes \"ran over\") OR (motorbikes crashed) OR (motorbikes rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_15"
+        },
+        {
+            "value": "((bus incident) OR (bus collided) OR (bus \"pile up\") OR (bus \"pile-up\") OR (bus smashed) OR (bus knocked) OR (bus struck) OR (bus hit) OR (bus \"ran over\") OR (bus crashed) OR (bus rolled) OR (buses rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_16"
+        },
+        {
+            "value": "((buses incident) OR (buses collided) OR (buses \"pile up\") OR (buses \"pile-up\") OR (buses smashed) OR (buses knocked) OR (buses struck) OR (buses hit) OR (buses \"ran over\") OR (buses crashed)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_17"
+        },
+        {
+            "value": "((van incident) OR (van collided) OR (van \"pile up\") OR (van \"pile-up\") OR (van smashed) OR (van knocked) OR (van struck) OR (van hit) OR (van \"ran over\") OR (van crashed) OR (van rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_18"
+        },
+        {
+            "value": "((vans incident) OR (vans collided) OR (vans \"pile up\") OR (vans \"pile-up\") OR (vans smashed) OR (vans knocked) OR (vans struck) OR (vans hit) OR (vans \"ran over\") OR (vans crashed) OR (vans rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_19"
+        },
+        {
+            "value": "((lorry incident) OR (lorry collided) OR (lorry \"pile up\") OR (lorry \"pile-up\") OR (lorry smashed) OR (lorry knocked) OR (lorry struck) OR (lorry hit) OR (lorry \"ran over\") OR (lorry crashed) OR (lorry rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_20"
+        },
+        {
+            "value": "((lorries incident) OR (lorries collided) OR (lorries \"pile up\") OR (lorries \"pile-up\") OR (lorries smashed) OR (lorries knocked) OR (lorries struck) OR (lorries hit) OR (lorries \"ran over\") OR (lorries crashed) OR (lorries rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_21"
+        },
+        {
+            "value": "((truck incident) OR (truck collided) OR (truck \"pile up\") OR (truck \"pile-up\") OR (truck smashed) OR (truck knocked) OR (truck struck) OR (truck hit) OR (truck \"ran over\") OR (truck crashed) OR (truck rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_22"
+        },
+        {
+            "value": "((trucks incident) OR (trucks collided) OR (trucks \"pile up\") OR (trucks \"pile-up\") OR (trucks smashed) OR (trucks knocked) OR (trucks struck) OR (trucks hit) OR (trucks \"ran over\") OR (trucks crashed) OR (trucks rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_23"
+        },
+        {
+            "value": "((driver incident) OR (driver collided) OR (driver \"pile up\") OR (driver \"pile-up\") OR (driver smashed) OR (driver knocked) OR (driver struck) OR (driver hit) OR (driver \"ran over\") OR (driver crashed) OR (driver rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_24"
+        },
+        {
+            "value": "((drivers incident) OR (drivers collided) OR (drivers \"pile up\") OR (drivers \"pile-up\") OR (drivers smashed) OR (drivers knocked) OR (drivers struck) OR (drivers hit) OR (drivers \"ran over\") OR (drivers crashed) OR (drivers rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_25"
+        },
+        {
+            "value": "((passenger incident) OR (passenger collided) OR (passenger \"pile up\") OR (passenger \"pile-up\") OR (passenger smashed) OR (passenger knocked) OR (passenger struck) OR (passenger hit) OR (passenger \"ran over\") OR (passenger crashed) OR (passenger rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_26"
+        },
+        {
+            "value": "((passengers incident) OR (passengers collided) OR (passengers \"pile up\") OR (passengers \"pile-up\") OR (passengers smashed) OR (passengers knocked) OR (passengers struck) OR (passengers hit) OR (passengers \"ran over\") OR (passengers crashed) OR (passengers rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_27"
+        },
+        {
+            "value": "((cyclist incident) OR (cyclist collided) OR (cyclist \"pile up\") OR (cyclist \"pile-up\") OR (cyclist smashed) OR (cyclist knocked) OR (cyclist struck) OR (cyclist hit) OR (cyclist \"ran over\") OR (cyclist crashed) OR (cyclist rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_28"
+        },
+        {
+            "value": "((cyclists incident) OR (cyclists collided) OR (cyclists \"pile up\") OR (cyclists \"pile-up\") OR (cyclists smashed) OR (cyclists knocked) OR (cyclists struck) OR (cyclists hit) OR (cyclists \"ran over\") OR (cyclists crashed) OR (cyclists rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_29"
+        },
+        {
+            "value": "((pedestrian incident) OR (pedestrian collided) OR (pedestrian \"pile up\") OR (pedestrian \"pile-up\") OR (pedestrian smashed) OR (pedestrian knocked) OR (pedestrian struck) OR (pedestrian hit) OR (pedestrian \"ran over\") OR (pedestrian crashed) OR (pedestrian rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_30"
+        },
+        {
+            "value": "((pedestrians incident) OR (pedestrians collided) OR (pedestrians \"pile up\") OR (pedestrians \"pile-up\") OR (pedestrians smashed) OR (pedestrians knocked) OR (pedestrians struck) OR (pedestrians hit) OR (pedestrians \"ran over\") OR (pedestrians crashed) OR (pedestrians rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_31"
+        },
+        {
+            "value": "((motorist incident) OR (motorist collided) OR (motorist \"pile up\") OR (motorist \"pile-up\") OR (motorist smashed) OR (motorist knocked) OR (motorist struck) OR (motorist hit) OR (motorist \"ran over\") OR (motorist crashed) OR (motorist rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_32"
+        },
+        {
+            "value": "((motorists incident) OR (motorists collided) OR (motorists \"pile up\") OR (motorists \"pile-up\") OR (motorists smashed) OR (motorists knocked) OR (motorists struck) OR (motorists hit) OR (motorists \"ran over\") OR (motorists crashed) OR (motorists rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_33"
+        },
+        {
+            "value": "((motorcyclist incident) OR (motorcyclist collided) OR (motorcyclist \"pile up\") OR (motorcyclist \"pile-up\") OR (motorcyclist smashed) OR (motorcyclist knocked) OR (motorcyclist struck) OR (motorcyclist hit) OR (motorcyclist \"ran over\") OR (motorcyclist crashed) OR (motorcyclist rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_34"
+        },
+        {
+            "value": "((motorcyclists collided) OR (motorcyclists \"pile up\") OR (motorcyclists \"pile-up\") OR (motorcyclists smashed) OR (motorcyclists knocked) OR (motorcyclists struck) OR (motorcyclists hit) OR (motorcyclists \"ran over\") OR (motorcyclists crashed) OR (motorcyclists rolled) OR (motorcyclists incident)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_35"
+        },
+        {
+            "value": "((vehicle injury) OR (vehicle injuries) OR (vehicle injured) OR (vehicle died) OR (vehicle dead) OR (vehicle death) OR (vehicle fatal) OR (vehicle killed) OR (vehicle hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_36"
+        },
+        {
+            "value": "((vehicles injury) OR (vehicles injuries) OR (vehicles injured) OR (vehicles died) OR (vehicles dead) OR (vehicles death) OR (vehicles fatal) OR (vehicles killed) OR (vehicles hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_37"
+        },
+        {
+            "value": "((car injury) OR (car injuries) OR (car injured) OR (car died) OR (car dead) OR (car death) OR (car fatal) OR (car killed) OR (car hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_38"
+        },
+        {
+            "value": "((cars injury) OR (cars injuries) OR (cars injured) OR (cars died) OR (cars dead) OR (cars death) OR (cars fatal) OR (cars killed) OR (cars hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_39"
+        },
+        {
+            "value": "((bicycle injury) OR (bicycle injuries) OR (bicycle injured) OR (bicycle died) OR (bicycle dead) OR (bicycle death) OR (bicycle fatal) OR (bicycle killed) OR (bicycle hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_40"
+        },
+        {
+            "value": "((bicycles injuries) OR (bicycles injured) OR (bicycles died) OR (bicycles dead) OR (bicycles death) OR (bicycles fatal) OR (bicycles killed) OR (bicycles hurt) OR (bicycles injury)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_41"
+        },
+        {
+            "value": "((cycle injury) OR (cycle injuries) OR (cycle injured) OR (cycle died) OR (cycle dead) OR (cycle death) OR (cycle fatal) OR (cycle killed) OR (cycle hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_42"
+        },
+        {
+            "value": "((cycles injuries) OR (cycles injured) OR (cycles died) OR (cycles dead) OR (cycles death) OR (cycles fatal) OR (cycles killed) OR (cycles hurt) OR (cycles injury)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_43"
+        },
+        {
+            "value": "((bike injury) OR (bike injuries) OR (bike injured) OR (bike died) OR (bike dead) OR (bike death) OR (bike fatal) OR (bike killed) OR (bike hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_44"
+        },
+        {
+            "value": "((bikes injuries) OR (bikes injured) OR (bikes died) OR (bikes dead) OR (bikes death) OR (bikes fatal) OR (bikes killed) OR (bikes hurt) OR (bikes injury)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_45"
+        },
+        {
+            "value": "((motorcycle injury) OR (motorcycle injuries) OR (motorcycle injured) OR (motorcycle died) OR (motorcycle dead) OR (motorcycle death) OR (motorcycle fatal) OR (motorcycle killed) OR (motorcycle hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_46"
+        },
+        {
+            "value": "((motorcycles injury) OR (motorcycles injuries) OR (motorcycles injured) OR (motorcycles died) OR (motorcycles dead) OR (motorcycles death) OR (motorcycles fatal) OR (motorcycles killed) OR (motorcycles hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_47"
+        },
+        {
+            "value": "((motorbike injury) OR (motorbike injuries) OR (motorbike injured) OR (motorbike died) OR (motorbike dead) OR (motorbike death) OR (motorbike fatal) OR (motorbike killed) OR (motorbikes hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_48"
+        },
+        {
+            "value": "((motorbike hurt) OR (motorbikes injury) OR (motorbikes injuries) OR (motorbikes injured) OR (motorbikes died) OR (motorbikes dead) OR (motorbikes death) OR (motorbikes fatal) OR (motorbikes killed)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_49"
+        },
+        {
+            "value": "((bus injury) OR (bus injuries) OR (bus injured) OR (bus died) OR (bus dead) OR (bus death) OR (bus fatal) OR (bus killed) OR (bus hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_50"
+        },
+        {
+            "value": "((buses injury) OR (buses injuries) OR (buses injured) OR (buses died) OR (buses dead) OR (buses death) OR (buses fatal) OR (buses killed) OR (buses hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_51"
+        },
+        {
+            "value": "((van injury) OR (van injuries) OR (van injured) OR (van died) OR (van dead) OR (van death) OR (van fatal) OR (van killed) OR (van hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_52"
+        },
+        {
+            "value": "((vans injuries) OR (vans injured) OR (vans died) OR (vans dead) OR (vans death) OR (vans fatal) OR (vans killed) OR (vans hurt) OR (vans injury)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_53"
+        },
+        {
+            "value": "((lorry injury) OR (lorry injuries) OR (lorry injured) OR (lorry died) OR (lorry dead) OR (lorry death) OR (lorry fatal) OR (lorry killed) OR (lorry hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_54"
+        },
+        {
+            "value": "((lorries injury) OR (lorries injuries) OR (lorries injured) OR (lorries died) OR (lorries dead) OR (lorries death) OR (lorries fatal) OR (lorries killed) OR (lorries hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_55"
+        },
+        {
+            "value": "((truck injury) OR (truck injuries) OR (truck injured) OR (truck died) OR (truck dead) OR (truck death) OR (truck fatal) OR (truck killed) OR (truck hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_56"
+        },
+        {
+            "value": "((trucks injuries) OR (trucks injured) OR (trucks died) OR (trucks dead) OR (trucks death) OR (trucks fatal) OR (trucks killed) OR (trucks hurt) OR (trucks injury)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_57"
+        },
+        {
+            "value": "((driver injury) OR (driver injuries) OR (driver injured) OR (driver died) OR (driver dead) OR (driver death) OR (driver fatal) OR (driver killed) OR (driver hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_58"
+        },
+        {
+            "value": "((drivers injury) OR (drivers injuries) OR (drivers injured) OR (drivers died) OR (drivers dead) OR (drivers death) OR (drivers fatal) OR (drivers killed) OR (drivers hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_59"
+        },
+        {
+            "value": "((passenger injury) OR (passenger injuries) OR (passenger injured) OR (passenger died) OR (passenger dead) OR (passenger death) OR (passenger fatal) OR (passenger killed) OR (passenger hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_60"
+        },
+        {
+            "value": "((passengers injuries) OR (passengers injured) OR (passengers died) OR (passengers dead) OR (passengers death) OR (passengers fatal) OR (passengers killed) OR (passengers hurt) OR (passengers injury)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_61"
+        },
+        {
+            "value": "((cyclist injury) OR (cyclist injuries) OR (cyclist injured) OR (cyclist died) OR (cyclist dead) OR (cyclist death) OR (cyclist fatal) OR (cyclist killed) OR (cyclists hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_62"
+        },
+        {
+            "value": "((cyclist hurt) OR (cyclists injury) OR (cyclists injuries) OR (cyclists injured) OR (cyclists died) OR (cyclists dead) OR (cyclists death) OR (cyclists fatal) OR (cyclists killed)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_63"
+        },
+        {
+            "value": "((pedestrian injury) OR (pedestrian injuries) OR (pedestrian injured) OR (pedestrian died) OR (pedestrian dead) OR (pedestrian death) OR (pedestrian fatal) OR (pedestrian killed) OR (pedestrian hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_64"
+        },
+        {
+            "value": "((pedestrians injuries) OR (pedestrians injured) OR (pedestrians died) OR (pedestrians dead) OR (pedestrians death) OR (pedestrians fatal) OR (pedestrians killed) OR (pedestrians hurt) OR (pedestrians injury)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_65"
+        },
+        {
+            "value": "((motorist injury) OR (motorist injuries) OR (motorist injured) OR (motorist died) OR (motorist dead) OR (motorist death) OR (motorist fatal) OR (motorist killed) OR (motorist hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_66"
+        },
+        {
+            "value": "((motorists injured) OR (motorists died) OR (motorists dead) OR (motorists death) OR (motorists fatal) OR (motorists killed) OR (motorists hurt) OR (motorists injury) OR (motorists injuries)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_67"
+        },
+        {
+            "value": "((motorcyclist injury) OR (motorcyclist injuries) OR (motorcyclist injured) OR (motorcyclist died) OR (motorcyclist dead) OR (motorcyclist death) OR (motorcyclist fatal) OR (motorcyclist killed) OR (motorcyclists hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_68"
+        },
+        {
+            "value": "((motorcyclist hurt) OR (motorcyclists injury) OR (motorcyclists injuries) OR (motorcyclists injured) OR (motorcyclists died) OR (motorcyclists dead) OR (motorcyclists death) OR (motorcyclists fatal) OR (motorcyclists killed)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_69"
+        },
+        {
+            "value": "((traffic incident) OR (traffic collided) OR (traffic \"pile up\") OR (traffic \"pile-up\") OR (traffic smashed) OR (traffic knocked) OR (traffic struck) OR (traffic hit) OR (traffic \"ran over\") OR (traffic crashed) OR (traffic rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_70"
+        },
+        {
+            "value": "((road incident) OR (road collided) OR (road \"pile up\") OR (road \"pile-up\") OR (road smashed) OR (road knocked) OR (road struck) OR (road hit) OR (road \"ran over\") OR (road crashed) OR (road rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_71"
+        },
+        {
+            "value": "((street incident) OR (street collided) OR (street \"pile up\") OR (street \"pile-up\") OR (street smashed) OR (street knocked) OR (street struck) OR (street hit) OR (street \"ran over\") OR (street crashed) OR (street rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_72"
+        },
+        {
+            "value": "((motorway incident) OR (motorway collided) OR (motorway \"pile up\") OR (motorway \"pile-up\") OR (motorway smashed) OR (motorway knocked) OR (motorway struck) OR (motorway hit) OR (motorway \"ran over\") OR (motorway crashed) OR (motorway rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_73"
+        },
+        {
+            "value": "((highway incident) OR (highway collided) OR (highway \"pile up\") OR (highway \"pile-up\") OR (highway smashed) OR (highway knocked) OR (highway struck) OR (highway hit) OR (highway \"ran over\") OR (highway crashed) OR (highway rolled)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_74"
+        },
+        {
+            "value": "((traffic injury) OR (traffic injuries) OR (traffic injured) OR (traffic died) OR (traffic dead) OR (traffic death) OR (traffic fatal) OR (traffic killed) OR (traffic hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_75"
+        },
+        {
+            "value": "((road injury) OR (road injuries) OR (road injured) OR (road died) OR (road dead) OR (road death) OR (road fatal) OR (road killed) OR (road hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_76"
+        },
+        {
+            "value": "((street injury) OR (street injuries) OR (street injured) OR (street died) OR (street dead) OR (street death) OR (street fatal) OR (street killed) OR (street hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_77"
+        },
+        {
+            "value": "((motorway injury) OR (motorway injuries) OR (motorway injured) OR (motorway died) OR (motorway dead) OR (motorway death) OR (motorway fatal) OR (motorway killed) OR (motorway hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_78"
+        },
+        {
+            "value": "((highway injury) OR (highway injuries) OR (highway injured) OR (highway died) OR (highway dead) OR (highway death) OR (highway fatal) OR (highway killed) OR (highway hurt)) lang:en -is:retweet -crash -accident -collision -place_country:US -place_country:AU -place_country:NZ -place_country:CA",
+            "tag": "RULES_TAG_79"
+        },
+      {
+            "value": "(from:928235115079233539 OR from:22595388 OR from:2374462717) (incident OR collided OR \"pile up\" OR \"pile-up\" OR smashed OR knocked OR struck OR hit OR \"ran over\" OR crashed OR rolled OR crash) lang:en",
+            "tag": "RULES_TAG_80"
+        },
+        {
+            "value": "(from:928235115078233539 OR from:22595388 OR from:2374462717) (collision OR accident OR #crash OR #collision OR #accident OR #fatalcrash OR #truckcrash OR #carcrash) lang:en",
+            "tag": "RULES_TAG_81"
+        },
+        {
+            "value": "(from:93911824 OR (from:72218172 -#JHBTraffic -#PTATraffic) OR from:159074771 OR from:559000524 OR from:2645400613 OR from:731477756601597952 OR (from:41315870 \"cape town\") OR from:154453910 OR (from:74991659 #CPTTraffic)) (incident OR collided OR \"pile up\" OR \"pile-up\" OR smashed OR knocked OR struck OR hit OR \"ran over\" OR crashed OR rolled OR crash OR collision OR accident) lang:en",
+            "tag": "RULES_TAG_82"
+        },
+        {
+            "value": "(from:93911824 OR (from:72218172 -#JHBTraffic -#PTATraffic) OR from:159074771 OR from:559000524 OR from:2645400613 OR from:731477756601597952 OR (from:41315870 \"cape town\") OR from:154453910 OR (from:74991659 #CPTTraffic)) (#crash OR #collision OR #accident OR #fatalcrash OR #truckcrash OR #carcrash) lang:en",
+            "tag": "RULES_TAG_83"
+        }
+    ]
+}
